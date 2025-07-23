@@ -163,13 +163,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to help.
 
 ---
 
-#### **Tools to Enhance Your README**  
-- **Markdown Editors**: [VS Code](https://code.visualstudio.com/), [Typora](https://typora.io/)  
-- **Badge Generators**: [Shields.io](https://shields.io/)  
-- **Linters**: [MarkdownLint](https://github.com/DavidAnson/markdownlint)  
-- **TOC Generators**: [gh-md-toc](https://github.com/ekalinin/github-markdown-toc)  
 
----
-
-**Golden Rule**:  
-> Your README should answer **all basic questions** about your project without requiring external context. Keep it updated!
